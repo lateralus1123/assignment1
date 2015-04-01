@@ -1,5 +1,6 @@
 My name is Dan. I'm interested in strategy games and mathematics. I like spicy food and can't
-operate in the morning without coffee.
+operate in the morning without coffee. This merge was awesome! I can really see how Git
+is a useful tool.
 
 
 PROGRAMMING BACKGROUND
